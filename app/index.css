@@ -1,0 +1,48 @@
+#nav {
+  background: #191919;
+  color: #fff;
+  font-size: 2em;
+  font-weight: bold;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+#search {
+  padding: 20px;
+  font-style: italic;
+  font-size: 1.3em;
+  vertical-align: middle;
+  height: 70px;
+}
+#random {
+  background: #191919;
+  padding-bottom: 20px;
+}
+ a[ng-href]{
+  color: black;
+}
+button {
+    font-weight: bold ;
+    background: #FFF056;
+    height: 35px;
+    border-radius: 6px;
+    border: #191919 solid 2px;
+}
+input {
+  border-radius: 6px;
+}
+
+body {
+  background: #DFE2DB;
+}
+
+p {
+  margin-bottom: 3px;
+  height: 79px;
+  width: 800px;
+  padding: 3px;
+  border-radius: 5px;
+  background: #fff;
+  font-weight: 500;
+}
